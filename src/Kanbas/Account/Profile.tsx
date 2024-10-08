@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import "./account-style.css";
 export default function Profile() {
   return (
     <div id="wd-profile-screen">
